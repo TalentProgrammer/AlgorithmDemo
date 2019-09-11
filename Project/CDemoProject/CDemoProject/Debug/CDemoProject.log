@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\personwork\workwordfile\project\cdemoproject\cdemoproject\main.cpp(82): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\personwork\workwordfile\project\cdemoproject\cdemoproject\main.cpp(113): warning C4326: “main”的返回类型应为“int”而非“void”
+  CDemoProject.vcxproj -> D:\PersonWork\WorkWordFile\Project\CDemoProject\Debug\CDemoProject.exe
